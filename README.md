@@ -1,2 +1,2 @@
-# Primeiro-progetos
-Primeiro progetos sobre o git github
+# Primeiro-projeto
+Primeiro projeto no git hub
